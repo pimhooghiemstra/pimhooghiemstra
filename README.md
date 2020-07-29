@@ -1,10 +1,12 @@
 ### Hi there 👋, my name is Pim
 #### and I love to work on projects involving Laravel and Vue
-![and I love to work on projects involving Laravel and Vue](https://plint-sites.nl/images/PLint-sites-logo-120px.png)
+
+**Agency**
+![My Agency](https://plint-sites.nl/images/PLint-sites-logo-120px.png)
 
 I am running the agency PLint-sites in the Netherlands, focussing on websites, webshops and webapps.
 
-Skills: Vue / Laravel / JS / PHP / HTML / CSS
+**Skills**: Vue / Laravel / JS / PHP / HTML / CSS
 
 - 🔭 I’m currently working on various nice projects 
 - 💬 Ask me about Vue 
