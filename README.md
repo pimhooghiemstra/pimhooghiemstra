@@ -5,10 +5,9 @@
 
 **Agency**: I am running the agency PLint-sites in the Netherlands, focussing on websites, webshops and webapps.
 
-![My Agency](https://plint-sites.nl/images/PLint-sites-logo-120px.png)
-
 [![My agency](https://plint-sites.nl/images/PLint-sites-logo-120px.png)](https://plint-sites.nl)
 
+**Blog**: https://blog.plint-sites.nl
 
 **Skills**: Vue / Laravel / JS / PHP / HTML / CSS
 
