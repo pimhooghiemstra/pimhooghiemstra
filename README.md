@@ -11,6 +11,7 @@ Skills: Vue / Laravel / JS / PHP / HTML / CSS
 - 📫 How to reach me: pim@plint-sites.nl 
 - ⚡ Fun fact: Loves cycling 
 
+![Fun fact: Loves cycling](https://plint-sites.nl/images/road-vision.jpg)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pimhooghiemstra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pim-hooghiemstra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/plintsites)
 
