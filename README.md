@@ -7,6 +7,9 @@
 
 ![My Agency](https://plint-sites.nl/images/PLint-sites-logo-120px.png)
 
+[![My agency](https://plint-sites.nl/images/PLint-sites-logo-120px.png)](https://plint-sites.nl)
+
+
 **Skills**: Vue / Laravel / JS / PHP / HTML / CSS
 
 - 🔭 I’m currently working on various nice projects 
